@@ -1,5 +1,4 @@
 import java.util.Scanner;
-//Lo que seaaaaaaaaaaaaaaaaaaaaaa
 public class Calculadora {
 	double res=0;
 	private static Scanner teclado;
